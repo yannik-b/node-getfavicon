@@ -1,0 +1,33 @@
+{
+  "name": "getfavicon",
+  "version": "0.1.0",
+  "description": "Node.js module to recieve a favicon url",
+  "main": "lib/getfavicon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannik-b/node-getfavicon.git"
+  },
+  "keywords": [
+    "favicon",
+    "url",
+    "internet",
+    "node",
+    "nodejs",
+    "icon",
+    "bookmark",
+    "favorite",
+    "favourite"
+  ],
+  "author": "Yannik Buerkle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yannik-b/node-getfavicon/issues"
+  },
+  "homepage": "https://github.com/yannik-b/node-getfavicon#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
