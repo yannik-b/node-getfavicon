@@ -1,6 +1,6 @@
 {
   "name": "getfavicon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js module to recieve a favicon url",
   "main": "lib/getfavicon.js",
   "scripts": {
