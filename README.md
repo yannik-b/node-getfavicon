@@ -9,8 +9,11 @@ usage
 ```javascript
 const getfavicon = require('getfavicon')
 
-let favicon = getfavicon('http://example.com/path/to/file')
-console.log(favicon)
+async function get() {
+  let favicon = await getfavicon('https://yannik-buerkle.de/')
+  console.log(favicon)
+}
+get()
 ```
 
 license
